@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_light">#FFF2F2F7</color>
+    <color name="blue_500">#FF007AFF</color>
+    <color name="green_500">#FF58E081</color>
+    <string name="app_name">机械小助手</string>
+    <style name="Theme.MachineHelper" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/blue_500</item>
+    </style>
+</resources>
